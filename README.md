@@ -1,4 +1,6 @@
 # Jenkins for Secure CI/CD
+Get the complete document: https://www.linkedin.com/posts/fiza-naeem-32b073292_automating-cicd-for-deployment-activity-7299381926866386944-EjMX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbYLRMB4HfCis-9O8TqDa7iy0Tx9LDChbE
+
 This project implements a **CI/CD (Continuous Integration and Continuous Deployment)** pipeline that automates building, testing, and deploying software using industry-standard DevOps tools while incorporating security best practices.
 
 ---
@@ -73,5 +75,7 @@ This project implements a **CI/CD (Continuous Integration and Continuous Deploym
 ---
 
 This CI/CD pipeline ensures **secure, automated, and reliable software delivery** while minimizing risks to infrastructure and production environments.
+
+
 
 
